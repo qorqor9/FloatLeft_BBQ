@@ -39,12 +39,15 @@
 https://github.com/qorqor9/FloatLeft_BBQ/issues/1#issue-1775909301
 
 
+
   <h3>B. 게시판 작성 및 회원정보 수정</h3>
 https://github.com/qorqor9/FloatLeft_BBQ/issues/3#issue-1775972602
 
 
+
   <h3>C. 게시판 답변 확인하기</h3>
 https://github.com/qorqor9/FloatLeft_BBQ/issues/4#issue-1775973231
+
 
 
   <h3>D. 서브 및 콘텐츠 메뉴</h3>
@@ -58,4 +61,5 @@ https://github.com/qorqor9/FloatLeft_BBQ/issues/4#issue-1775973231
   <h3>F. 관리자 로그인 및 전용 페이지</h3>
 
   https://github.com/qorqor9/FloatLeft_BBQ/issues/2#issue-1775971512
+  
 
