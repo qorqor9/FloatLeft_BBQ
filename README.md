@@ -5,8 +5,7 @@
 프로젝트를 통해 소통하며 협업하는 방법을 배우며, 프론트 엔드와 백엔드 각 포지션을 나눠서 오류없이 페이지를 구현했습니다.
 
 #2. DB 구성
-
-
+[Floatleft_Project_BBQ.txt](https://github.com/qorqor9/FloatLeft_BBQ/files/11877021/Floatleft_Project_BBQ.txt)
 
 #3. 구성
 # Project 명
@@ -24,8 +23,7 @@ b. webapp 폴더
    css + images + include + js + login_join + order
 
 #4. Work-Flow
-
-
+[Floatleft_Project_BBQmd.TXT](https://github.com/qorqor9/FloatLeft_BBQ/files/11877024/Floatleft_Project_BBQmd.TXT)
 
 #5. 프로젝트 시연  
 
