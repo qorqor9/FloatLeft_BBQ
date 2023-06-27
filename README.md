@@ -44,13 +44,13 @@
 
 
   <h3>C. 게시판 답변 확인하기</h3>
-  
+  [https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/265f0fe2-f990-4412-a5c4-91f56e9a837d]
   
 
 
 
   <h3>D. 서브 및 콘텐츠 메뉴</h3>
-  https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/f205a08a-ca49-4291-95dc-840aedb79ce9
+  
   
 
   <h3>E. 매장찾기</h3>
@@ -59,7 +59,7 @@
   
 
   <h3>F. 관리자 로그인 및 전용 페이지</h3>
-  https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/0506772f-c871-42fb-b917-4d58bdb35577
+    
   
   
 
