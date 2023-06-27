@@ -11,4 +11,4 @@
 
 #5. 프로젝트 시연
 
-https://github.com/qorqor9/backtest/issues/1#issue-1775909301
+link: https://github.com/qorqor9/backtest/issues/1#issue-1775909301
