@@ -35,21 +35,21 @@
 <h2>#6. 프로젝트 시연</h2>
 
   <h3>A. 회원가입 및 온라인 주문</h3>
-  [https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/ba32d235-8749-4c9a-a9c6-ca616edd7641](https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/ba32d235-8749-4c9a-a9c6-ca616edd7641/)
+  [https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/ba32d235-8749-4c9a-a9c6-ca616edd7641](https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/ba32d235-8749-4c9a-a9c6-ca616edd7641)
 
   <h3>B. 게시판 작성 및 회원정보 수정</h3>
-  [https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/8ed2b65b-6788-4e88-a9d7-d64dacdba966](https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/8ed2b65b-6788-4e88-a9d7-d64dacdba966/)
+  [https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/8ed2b65b-6788-4e88-a9d7-d64dacdba966](https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/8ed2b65b-6788-4e88-a9d7-d64dacdba966)
 
   <h3>C. 게시판 답변 확인하기</h3>
-  [https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/94d207da-2d3b-4caf-82b8-075b784bb481](https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/94d207da-2d3b-4caf-82b8-075b784bb481/)
+  [https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/94d207da-2d3b-4caf-82b8-075b784bb481](https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/94d207da-2d3b-4caf-82b8-075b784bb481)
   
   <h3>D. 서브 및 콘텐츠 메뉴</h3>
-  
+  [https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/50fab66c-fb22-4605-a580-04440bcf4739](https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/50fab66c-fb22-4605-a580-04440bcf4739)
   
   <h3>E. 매장찾기</h3>
-  [https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/598afb94-f079-4ec5-b453-0d0146e35e23/](https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/598afb94-f079-4ec5-b453-0d0146e35e23/)
+  [https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/598afb94-f079-4ec5-b453-0d0146e35e23](https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/598afb94-f079-4ec5-b453-0d0146e35e23)
 
   <h3>F. 관리자 로그인 및 전용 페이지</h3>
-  [https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/94084e6c-578f-40a9-9dcb-150cec39235c](https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/94084e6c-578f-40a9-9dcb-150cec39235c/)https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/94084e6c-578f-40a9-9dcb-150cec39235c/
+  [https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/94084e6c-578f-40a9-9dcb-150cec39235c](https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/94084e6c-578f-40a9-9dcb-150cec39235c)
     
   
