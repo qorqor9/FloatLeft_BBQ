@@ -1,0 +1,245 @@
+@charset "UTF-8";
+#wrap {
+    width: 1920px;
+    min-width: 1920px;    
+    text-align: center;
+    margin: 0 auto;
+    background-color: #afabab11;    
+}
+.voc_wrap{
+    margin: 0 auto;
+}
+.w1440 {
+    width: 1440px;
+    min-width: 1440px;
+}
+.w1196{
+    width: 1196px;
+    min-width: 1196px;
+}
+
+/*상단 바 스타일*/
+.voc_customer {
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    background-color: rgb(102, 102, 102);
+}
+.voc_customer2{
+    margin: 0 auto;
+    width: 200px;
+    /* 플랙스 */
+    display: flex;
+    flex-flow: row wrap;    
+}
+
+.voc_customer2 h2:nth-child(3){
+    padding-left: 70px;
+}
+
+/* 화살표 */
+.arrow {
+    position: relative;
+}
+.arrow::after {
+    position: absolute;
+    left: 15px;
+    top: -6px;
+    content: "";
+    width: 29px;
+    height: 29px;
+    border-top: 1px solid rgb(209, 209, 209); /* 선 두께 */
+    border-right: 1px solid rgb(209, 209, 209); /* 선 두께 */
+    transform: rotate(45deg); /* 각도 */
+}
+/* 메인 스타일 */
+
+/* section 1 */
+.voc_section1{
+    /* 플렉스 */
+    display: flex;
+    flex-flow: column wrap;
+}
+.voc_section1 h1 {
+    margin-top: 30px;
+    font-size: 36px; 
+    display: flex;
+    flex-flow: row;
+    justify-content: left;
+}
+.voc_section1 ul {
+    /* 플렉스 */
+    display: flex;
+}
+.voc_section1 ul li {
+    color: #666;
+    width: 596px;
+    height: 50px;
+    padding-top: 15px;
+    flex-flow: row wrap;
+    background-color: rgb(248, 248, 248);
+    border: 1px solid #dadada;
+}
+
+/* section 2 */
+.voc_section2 {
+    margin-top: 60px;
+}
+.voc_text {
+    margin-top: 40px;
+}
+.voc_text h2 {
+    font-size: 24px;
+    font-weight: 500;
+    letter-spacing: -1px;
+}
+.voc_text h3 {
+    margin-top: 20px;
+    line-height: 25px;
+    font-weight: 500;
+    letter-spacing: -0.25px;
+}
+
+/* section 3 */
+.voc_section3 input {
+    background-color: rgb(241, 241, 241);
+    border: 1px solid #bbbaba;
+    width: 250px;
+    height: 50px;
+    margin-right: 15px;
+    float: left;
+}
+.voc_hr {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-bottom: 1.5px solid #000;
+}
+.voc_section3{
+    margin-top: -30px;
+}
+/* 1번쨰 tr */
+table tr:nth-child(1) th{
+    height: 100px;
+    padding-top: 40px;
+}
+table tr:nth-child(1) td  {     
+    height: 100px;
+    padding-top: 40px;
+    /* 플렉스 */
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: start;
+}
+/* 2번쨰 tr */
+table tr:nth-child(2) th  {
+    padding-top: 22px;    
+}
+.voc_find_store {
+    width: 95px;
+    height: 40px;
+    margin-top: 5px;
+    background-color: #fff;
+    border: 1px solid #bbbaba;
+    /* 플롯 */
+    float: left;
+}
+/* 3번쨰 tr */
+table tr:nth-child(3) th  {
+    padding-top: 22px;
+}
+.voc_select{
+    -webkit-appearance: none; /* Safari 및 Chrome 브라우저 지원 */
+    -moz-appearance: none; /* Firefox 브라우저 지원 */
+    appearance: none; /* 일반적인 브라우저 지원 */
+    width: 250px;
+    height: 50px;
+    border-color: #bbbaba;
+    background-color: rgb(241, 241, 241);
+    background: url(/images/ico_select_arrow.png) no-repeat right center;
+    /* 플롯 */
+    float: left;
+}
+/* 4번쨰 tr */
+table tr:nth-child(4) th  {
+    padding-top: 22px;
+}
+/* 5번쨰 tr */
+table tr:nth-child(5) th  {
+    padding-top: 22px;
+}
+/* 6번째 tr */
+table tr:nth-child(6) td  {    
+    /* 플롯 */
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: start;    
+}
+/* 7번째 tr */
+table tr:nth-child(7) th  {
+    padding-top: 22px;
+}
+table tr:nth-child(7) input  {
+    width: 100%;
+    background-color: #fff;
+
+}
+/* 8번쨰 tr */
+table tr:nth-child(8) th  {
+    padding-top: 140px;
+}
+table tr:nth-child(8) td  {
+    /* 플렉스 */
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: start;
+}
+#FILENAME{
+    margin-top: 40px;
+}
+#FILENAME2{
+    margin-top: -40px;
+}
+#FILENAME3{
+    margin-top: -40px;    
+}
+.file_btn {
+    width: 125px;
+    height: 40px;
+    background-color: #fff;
+    border: 1px solid #bbbaba;
+    /* 플렉스 */
+    flex-flow: column wrap;    
+    /* position */
+    position: relative;
+    left: 290px;
+    top: -45px;
+    padding: 10px 15px;
+}
+/* 버튼 스타일 */
+.voc_btn{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;    
+}
+.voc_btn button:first-child{
+    width: 200px;
+    height: 60px;
+    background-color: #E31947;
+    color: #fff;
+    margin-right: 20px;
+}
+.voc_btn button:last-child {
+    width: 200px;
+    height: 60px;
+    background-color: #fff;
+    color: #2c2c2c;
+    border: 2px solid #dadada;
+    margin-left: 20px;
+}
+
+textarea{
+    height: 200px;
+    border: 1px solid #dadada;
+}
+
+
