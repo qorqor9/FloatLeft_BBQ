@@ -11,7 +11,7 @@
 
 
 <h2>#2. DB 구성</h2>
-[Floatleft_Project_BBQ.txt](https://github.com/qorqor9/FloatLeft_BBQ/files/11877021/Floatleft_Project_BBQ.txt)
+[Floatleft_Project_BBQ.txt](https://github.com/qorqor9/FloatLeft_BBQ/files/11877220/Floatleft_Project_BBQ.txt)
 
 <h2>#3. 구성</h2>
 
@@ -27,7 +27,7 @@
 
 
 <h2>#4. Work-Flow</h2>
-[Floatleft_Project_BBQmd.TXT](https://github.com/qorqor9/FloatLeft_BBQ/files/11877024/Floatleft_Project_BBQmd.TXT)
+[Floatleft_Project_BBQmd.TXT](https://github.com/qorqor9/FloatLeft_BBQ/files/11877224/Floatleft_Project_BBQmd.TXT)
 
 <h2>#5. 소스코드</h2>
 
@@ -35,33 +35,21 @@
 <h2>#6. 프로젝트 시연</h2>
 
   <h3>A. 회원가입 및 온라인 주문</h3>
-
-  [https://github.com/qorqor9/FloatLeft_BBQ/issues/1#issue-1775909301](https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/43c4b858-53a3-4fed-91c7-665d60e55c0e)
-
+  https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/ba32d235-8749-4c9a-a9c6-ca616edd7641
 
   <h3>B. 게시판 작성 및 회원정보 수정</h3>
-  [https://github.com/qorqor9/FloatLeft_BBQ/issues/3#issue-1775972602](https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/c1eb1946-3dc1-492d-8625-1dbbf92d993e)
-
+  https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/8ed2b65b-6788-4e88-a9d7-d64dacdba966
 
   <h3>C. 게시판 답변 확인하기</h3>
-  [https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/265f0fe2-f990-4412-a5c4-91f56e9a837d]
+  https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/94d207da-2d3b-4caf-82b8-075b784bb481  
   
-
-
-
   <h3>D. 서브 및 콘텐츠 메뉴</h3>
+  https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/cc8e0a20-055b-4ecd-be7a-80b59a2f46e6
   
-  
-
   <h3>E. 매장찾기</h3>
-
-  [https://github.com/WOONG-riginal/test/assets/136036366/ccb12654-5b37-4442-b5ef-ae9839fee811](https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/f205a08a-ca49-4291-95dc-840aedb79ce9)
-  
+  https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/598afb94-f079-4ec5-b453-0d0146e35e23
 
   <h3>F. 관리자 로그인 및 전용 페이지</h3>
+  https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/94084e6c-578f-40a9-9dcb-150cec39235c
     
   
-  
-
-  
-
