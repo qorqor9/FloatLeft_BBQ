@@ -44,7 +44,7 @@
 
 
   <h3>C. 게시판 답변 확인하기</h3>
-  https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/2c98742c-793f-4454-b173-b6eaa725b726
+  
   
 
 
