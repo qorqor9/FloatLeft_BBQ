@@ -30,7 +30,7 @@
 [Floatleft_Project_BBQmd.TXT](https://github.com/qorqor9/FloatLeft_BBQ/files/11877224/Floatleft_Project_BBQmd.TXT)
 
 <h2>#5. 소스코드</h2>
-
+https://github.com/qorqor9/FloatLeft_BBQ/tree/master/BBQ_Group_Project
 
 <h2>#6. 프로젝트 시연</h2>
 
