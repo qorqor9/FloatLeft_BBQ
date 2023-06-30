@@ -29,7 +29,9 @@
 
 
 <h2>#4. Work-Flow</h2>
-[Floatleft_Project_BBQmd.TXT](https://github.com/qorqor9/FloatLeft_BBQ/files/11877224/Floatleft_Project_BBQmd.TXT)
+https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/1f82592e-fdba-41d5-aeb0-6bc7e2299d07
+
+
 
 <h2>#5. 소스코드</h2>
 https://github.com/qorqor9/FloatLeft_BBQ/tree/master/BBQ_Group_Project
