@@ -38,34 +38,27 @@ https://github.com/qorqor9/FloatLeft_BBQ/tree/master/BBQ_Group_Project
 
 <h2>#6. 프로젝트 시연</h2>
 
-  <h3>A. 회원가입 및 온라인 주문</h3>
+  <h3>A. 회원가입 및 온라인 주문</h3>  
+  https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/7498690e-81c0-4a01-9699-9b46483a86f3
 
-  
-  http://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/ba32d235-8749-4c9a-a9c6-ca616edd7641
   
   <h3>B. 게시판 작성 및 회원정보 수정</h3>
+  https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/db495fc0-0854-4336-b7a4-f614d8c4777a
 
   
-  http://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/8ed2b65b-6788-4e88-a9d7-d64dacdba966
-
   <h3>C. 게시판 답변 확인하기</h3>
+  https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/a3599132-d333-4e1e-9410-58757811be12
 
-  
-  http://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/94d207da-2d3b-4caf-82b8-075b784bb481
   
   <h3>D. 서브 및 콘텐츠 메뉴</h3>
+  https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/69e2c4d4-9cdb-4266-87a3-86fda6963476
 
-  
-  http://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/737036d5-44d9-4239-a068-1e31166ea1a5
   
   <h3>E. 매장찾기</h3>
+  https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/19fb205c-87e3-48c3-ab30-73ee642db83a
 
   
-  http://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/598afb94-f079-4ec5-b453-0d0146e35e23
-
   <h3>F. 관리자 로그인 및 전용 페이지</h3>
+  https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/3f64cce6-75f4-459e-8592-3410e3e1e81e
 
-  
-  http://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/94084e6c-578f-40a9-9dcb-150cec39235c
-    
   
