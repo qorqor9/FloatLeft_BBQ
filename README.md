@@ -39,9 +39,8 @@ https://github.com/qorqor9/FloatLeft_BBQ/tree/master/BBQ_Group_Project
 
 <h2>#6. 프로젝트 시연</h2>
 
-  <h3>A. 회원가입 및 온라인 주문</h3>  
+  <h3>A. 회원가입 및 온라인 주문</h3>
   https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/7498690e-81c0-4a01-9699-9b46483a86f3
-
 
 
   
