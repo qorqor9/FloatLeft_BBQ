@@ -11,7 +11,9 @@
 
 
 <h2>#2. DB 구성</h2>
-[Floatleft_Project_BBQ.txt](https://github.com/qorqor9/FloatLeft_BBQ/files/11877220/Floatleft_Project_BBQ.txt)
+![DB](https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/d718720a-04f1-4fa7-8598-34940b050d9d)
+
+
 
 <h2>#3. 구성</h2>
 
