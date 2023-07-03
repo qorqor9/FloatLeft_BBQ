@@ -31,7 +31,7 @@
 
 <h2>#4. Work-Flow</h2>
 
-![bbq_workflow](https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/1f82592e-fdba-41d5-aeb0-6bc7e2299d07)
+![flowchart](https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/6789cadd-c6d5-4a6d-954d-efbef28c2141)
 
 
 <h2>#5. 소스코드</h2>
