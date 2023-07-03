@@ -12,7 +12,7 @@
 
 <h2>#2. DB 구성</h2>
 
-![DB](https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/d718720a-04f1-4fa7-8598-34940b050d9d)
+![DB_F](https://github.com/qorqor9/FloatLeft_BBQ/assets/126128052/35fa34fe-728e-4a55-97cc-db6d1b32cfea)
 
 
 
